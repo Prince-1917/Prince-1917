@@ -1,29 +1,73 @@
-<h1 align="center">Hi 👋, I'm Prince Sharma</h1>
-<h3 align="center">A passionate frontend developer from India and Code Enthusiastic.</h3>
+[---//---] ACCESS TERMINAL [---//---]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-1917&label=Profile%20views&color=0e75b6&style=flat" alt="prince-1917" /> </p>
+# > `Hi 👋, I'm `**`Prince Sharma`**  
+*__A Frontend Operative from India // Code Enthusiast // Building Digital Arenas__*
 
-<p align="left"> <a href="https://twitter.com/prince_shxrmaa" target="blank"><img src="https://img.shields.io/twitter/follow/prince_shxrmaa?logo=twitter&style=for-the-badge" alt="prince_shxrmaa" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Prince-1917&style=flat-square&color=29B6F6)
 
-- 🔭 I’m currently in **Thakur College of Engineering & Technology**
+[---//---] OPERATIONAL STATUS [---//---]
 
-- 🌱 I’m currently learning **Frontend**
+### 🔭 **Deploying At:** `Thakur College of Engineering & Technology`
+### 🌱 **Uplinking:** `Frontend Combat Modules (React.js, Tailwind, MongoDB)`
+### 👯 **Collaborative Missions:** `Executed Open Source Ops @ TCET`
+### 📫 **Secure Link:** [`prince19s17@gmail.com`](mailto:prince19s17@gmail.com)
 
-- 👯 I have worked for **TCET Open Source**
+[---//---] COMMS & NETWORKING GRID [---//---]
 
-- 📫 How to reach me **prince19s17@gmail.com**
+| [LinkedIn](https://www.linkedin.com/in/prince-sharma-1a1419253) | [GitHub](https://github.com/Prince-1917) | [My Portfolio](https://github.com/Prince-1917/My-Portfolio.git) |
+|:-:|:-:|:-:|
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=flat-square&logo=react&logoColor=61dafb) |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prince_shxrmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_shxrmaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/prince-sharma-1a1419253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prince-sharma-1a1419253" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prince_shxrma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prince_shxrma/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@princesharma8050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@princesharma8050" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prince_1917/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prince_1917/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/VMqfX7XA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VMqfX7XA" height="30" width="40" /></a>
-</p>
+[---//---] TACTICAL TOOLKIT & LANGUAGE MATRIX [---//---]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+#### Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-1917&show_icons=true&locale=en" alt="prince-1917" /></p>
+#### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Tools & Platforms
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Embedded & Automation
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
+![UiPath](https://img.shields.io/badge/UI_Path-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
+
+[---//---] MISSION LOGS [---//---]
+
+### 🧠 Projects
+- `CareConnect`: Appointment System | Spring Boot + JWT + WebSocket + Stripe + Docker
+- `3D Portfolio`: React + Three.js + Vite
+- `Tournament Site (In Progress)`: React + Tailwind | Gaming Squad Registration
+
+### 📖 Publications
+- *FetoMaternal Care: Complete Prenatal Health Tracking Under One Roof*
+- *Exploring Cryptocurrencies & Blockchain Tech*
+
+### 🏆 Competitions
+- 🥇 `Technovation` @ CMRIT - *1st Place*
+- 🥈 `Bizence` Hackathon - *Runner-Up*
+- 🔥 `Hackanova` @ TCET - *Top 15 Teams*
+- 👨‍💻 `GSSoC` - *Ranked 989 / 42,000*
+
+[---//---] PERFORMANCE DASHBOARD [---//---]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1917&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-1917&show_icons=true&theme=tokyonight&count_private=true&hide=prs&line_height=28)
+
+> _Analyzing My Code Combat Performance_
+
+[---//---] END TRANSMISSION [---//---]
