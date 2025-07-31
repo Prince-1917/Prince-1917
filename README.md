@@ -75,10 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1917&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prince-1917&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
 ---
 
 > “Engage. Execute. Elevate. — Building digital experiences one line of code at a time.”
