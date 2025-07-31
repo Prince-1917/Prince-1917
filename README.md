@@ -43,14 +43,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-#### 🛠️ Frontend & Styling
+#### 🎨 Frontend & Styling
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-#### 🧪 Backend, Databases & Tools
+#### 🔧 Backend, Databases & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -60,21 +60,25 @@
 
 ---
 
-### 📦 Key Missions (Projects)
-- 🎯 [**CareConnect**](https://github.com/Prince-1917/CareConnect-Full-Stack-Appointment-Booking-System.git) – Spring Boot | RabbitMQ | Razorpay | WebSocket  
-- 🧱 [**3D Portfolio**](https://github.com/Prince-1917/My-Portfolio.git) – React + Three.js + Vite  
-- 🕹️ Gaming Tournament Portal *(In Progress)* – React + Tailwind + Backend API
+### 🚀 Key Missions (Projects)
+
+- 🎯 [`CareConnect`](https://github.com/Prince-1917/CareConnect-Full-Stack-Appointment-Booking-System.git) – Spring Boot, JWT, WebSocket, RabbitMQ, Razorpay  
+- 🧱 [`3D Portfolio`](https://github.com/Prince-1917/My-Portfolio.git) – React, Three.js, Vite  
+- 🎮 Gaming Tournament Portal *(Ongoing)* – React, Tailwind CSS
 
 ---
 
 ### 📈 Combat Dashboard
 
-<p align=\"center\">
-  <img src=\"https://github-readme-stats.vercel.app/api?username=Prince-1917&show_icons=true&theme=tokyonight&hide_border=true\" alt=\"GitHub Stats\" />
-  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1917&layout=compact&theme=tokyonight&hide_border=true\" alt=\"Top Languages\" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-1917&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1917&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prince-1917&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 > “Engage. Execute. Elevate. — Building digital experiences one line of code at a time.”
-
