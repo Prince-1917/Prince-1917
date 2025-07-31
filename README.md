@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prince+Sharma;Frontend+Operative+from+India;I+build+Digital+Arenas+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Prince+Sharma;Frontend+Developer+from+India;React.js+Operative+%F0%9F%9A%80;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Tactical Engineer | React.js Enthusiast | Open Source Contributor</h3>
@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prince-1917&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Prince-1917&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
