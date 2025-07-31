@@ -1,73 +1,134 @@
-[---//---] ACCESS TERMINAL [---//---]
+<h1 align="center">Hi 👋, I'm Prince Sharma</h1>
+<h3 align="center">A Frontend Operative from India // Code Enthusiast // Building Digital Arenas.</h3>
 
-# > `Hi 👋, I'm `**`Prince Sharma`**  
-*__A Frontend Operative from India // Code Enthusiast // Building Digital Arenas__*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prince-1917&label=Profile%20views&color=0e75b6&style=flat" alt="prince-1917" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prince-1917&style=flat-square&color=29B6F6)
+📡 Operational Status // Current Mission Log
+Deploying at: Thakur College of Engineering & Technology (Bachelor of Technology in Internet of Things - 8.80 CGPA)
 
-[---//---] OPERATIONAL STATUS [---//---]
+Skill Acquisition: Currently enhancing Frontend protocols, with a strong foundation in Java Collections, OOP, DSA, DBMS, OS, and Computer Networks.
 
-### 🔭 **Deploying At:** `Thakur College of Engineering & Technology`
-### 🌱 **Uplinking:** `Frontend Combat Modules (React.js, Tailwind, MongoDB)`
-### 👯 **Collaborative Missions:** `Executed Open Source Ops @ TCET`
-### 📫 **Secure Link:** [`prince19s17@gmail.com`](mailto:prince19s17@gmail.com)
+Collaborative Missions: Previously assisted TCET Open Source Operations as a Frontend Contributor (React).
 
-[---//---] COMMS & NETWORKING GRID [---//---]
+Secure Comms: Initiate Secure Link: prince19s17@gmail.com
 
-| [LinkedIn](https://www.linkedin.com/in/prince-sharma-1a1419253) | [GitHub](https://github.com/Prince-1917) | [My Portfolio](https://github.com/Prince-1917/My-Portfolio.git) |
-|:-:|:-:|:-:|
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Portfolio](https://img.shields.io/badge/Portfolio-0A192F?style=flat-square&logo=react&logoColor=61dafb) |
+🚀 Experience // Combat Deployments
+Developer Intern @ Choudhary's Market (May 2025 - Nov 2025)
+Currently developing two business-focused websites: one for real estate listings and another for online gaming tournament registration.
 
-[---//---] TACTICAL TOOLKIT & LANGUAGE MATRIX [---//---]
+Building responsive frontends using React.js and Tailwind CSS, with a focus on intuitive user experience and robust form handling.
 
-#### Core Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Frontend Contributor (React) @ TCET Open Source Committee (June 2023 - July 2023)
+Contributed to UI development of open-source web applications, leveraging React.js and CSS frameworks.
 
-#### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+Actively participated in component structuring and layout implementation, ensuring accessibility and responsiveness across platforms.
 
-#### Tools & Platforms
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🛠️ Projects // Tactical Operations Briefs
+3D Portfolio Website (React & Three.js)
+Designed and engineered a dynamic 3D personal portfolio, showcasing my developer profile using React, Three.js, and Vite.
 
-#### Embedded & Automation
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FF7300?style=for-the-badge&logo=mathworks&logoColor=white)
-![UiPath](https://img.shields.io/badge/UI_Path-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
+Integrated animated 3D elements and interactive scenes to elevate user engagement and visual storytelling.
 
-[---//---] MISSION LOGS [---//---]
+Implemented a fully responsive layout with smooth transitions for optimal viewing on both desktop and mobile devices.
 
-### 🧠 Projects
-- `CareConnect`: Appointment System | Spring Boot + JWT + WebSocket + Stripe + Docker
-- `3D Portfolio`: React + Three.js + Vite
-- `Tournament Site (In Progress)`: React + Tailwind | Gaming Squad Registration
+CareConnect Full Stack Appointment Booking System
+Developed an enterprise-grade appointment scheduling system utilizing a Microservices Architecture.
 
-### 📖 Publications
-- *FetoMaternal Care: Complete Prenatal Health Tracking Under One Roof*
-- *Exploring Cryptocurrencies & Blockchain Tech*
+Constructed robust backend services in Spring Boot, secured with authentication via JWT.
 
-### 🏆 Competitions
-- 🥇 `Technovation` @ CMRIT - *1st Place*
-- 🥈 `Bizence` Hackathon - *Runner-Up*
-- 🔥 `Hackanova` @ TCET - *Top 15 Teams*
-- 👨‍💻 `GSSoC` - *Ranked 989 / 42,000*
+Integrated RabbitMQ for efficient event-driven communication and WebSocket for real-time updates.
 
-[---//---] PERFORMANCE DASHBOARD [---//---]
+Enabled secure payment processing through Razorpay and Stripe, with deployment managed via Docker containers.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-1917&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-1917&show_icons=true&theme=tokyonight&count_private=true&hide=prs&line_height=28)
+FetoMaternal Care: Complete Prenatal Health Tracking Under One Roof (Publication)
+Focused on comprehensive prenatal health tracking solutions.
 
-> _Analyzing My Code Combat Performance_
+Digital Currency: Exploring the World of Cryptocurrencies and Blockchain Technology (Publication)
+Explored the intricacies of digital currencies and blockchain.
 
-[---//---] END TRANSMISSION [---//---]
+🏆 Achievements // Combat Honors
+Competitions
+Technovation (Technical Poster Competition) | CMRIT - Bangalore: WINNER (1st Position)
+
+Bizence Business Hackathon (24 hour) | SIES GST (Vashi): Runner Ups (2nd Position)
+
+Hackanova (36 hour) | TCET (Kandivali): Top 15 Teams
+
+GirlScript Summer Of Code (GSSOC): Ranked 989 out of 42000
+
+Leadership / Extra-Curricular
+Google Developer Student Club (GDSC) - TCET: Event Member (August 2023 - May 2024)
+
+IEI - TCET: Technical Lead (July 2023 - May 2024)
+
+IEI - TCET: Chairperson (June 2024 - Present)
+
+🧰 Tactical Toolkit & Language Matrix
+Languages:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+Frameworks & Libraries:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/threejs/threejs-icon.svg" alt="Three.js" width="40" height="40"/>
+</p>
+
+Databases:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+Tools & Platforms:
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<!-- Assuming UI Path Studio and Simulink don't have widely available SVG icons, or would need custom ones -->
+</p>
+
+Core Knowledge Areas:
+
+Java Collections
+
+Object-Oriented Programming (OOP)
+
+Data Structures and Algorithms (DSA)
+
+Database Management Systems (DBMS)
+
+Operating Systems
+
+Computer Networks
+
+🌐 Comms & Networking Grid
+<p align="left">
+<a href="https://twitter.com/prince_shxrmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_shxrmaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prince-sharma-1a1419253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prince Sharma on LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prince_shxrma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_shxrma on Instagram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@princesharma8050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princesharma8050 on HackerRank" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prince_1917/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prince_1917 on GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://discord.gg/VMqfX7XA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join my Discord" height="30" width="40" /></a>
+</p>
+
+📊 Performance Metrics // Code Combat Analysis
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-1917&show_icons=true&locale=en&theme=dark" alt="prince-1917 GitHub Stats" /></p>
