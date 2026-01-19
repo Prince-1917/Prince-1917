@@ -1,4 +1,4 @@
-# <p align="center">✨ PRINCE R. SHARMA</p>
+# <p align="center">✨ PRINCE RANJEET SHARMA</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=700&lines=DATA+ANALYST+%7C+IOT+ARCHITECT;8.91+CGPA+%40+TCET;600K%2B+Records+Analyzed;GSSOC+RANK+989+%2F+42000;AWS+%2B+Snowflake+Specialist" alt="Typing SVG" />
 </p>
